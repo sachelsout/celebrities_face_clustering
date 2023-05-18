@@ -1,0 +1,207 @@
+2023-01-27 20:38:10.890:app.py:<module>:INFO:44:SERVICE HAS STARTED
+2023-01-27 20:38:10.911:input_data.py:create_sample_dataset:INFO:76:creating a sample dataset from a large dataset
+2023-01-27 20:38:23.728:input_data.py:create_sample_dataset:INFO:82:selecting first 100 images from the sampled dataset
+2023-01-27 20:38:23.732:face_encoding.py:encodings_pickle:INFO:84:Dumping the facial encodings obtained, into the pickle file
+2023-01-27 20:38:23.732:face_encoding.py:create_face_encodings:INFO:68:Processing Image 1/100
+2023-01-27 20:38:23.733:face_encoding.py:create_face_encodings:INFO:69:E:/face_clustering_service/src/DATASETS/sample_dataset\Adriana Lima0_0.jpg
+2023-01-27 20:38:57.33 :face_encoding.py:create_face_encodings:INFO:68:Processing Image 2/100
+2023-01-27 20:38:57.33 :face_encoding.py:create_face_encodings:INFO:69:E:/face_clustering_service/src/DATASETS/sample_dataset\Adriana Lima101_3.jpg
+2023-01-27 20:39:05.939:face_encoding.py:create_face_encodings:INFO:68:Processing Image 3/100
+2023-01-27 20:39:05.939:face_encoding.py:create_face_encodings:INFO:69:E:/face_clustering_service/src/DATASETS/sample_dataset\Adriana Lima102_4.jpg
+2023-01-27 20:39:08.396:face_encoding.py:create_face_encodings:INFO:68:Processing Image 4/100
+2023-01-27 20:39:08.396:face_encoding.py:create_face_encodings:INFO:69:E:/face_clustering_service/src/DATASETS/sample_dataset\Adriana Lima103_5.jpg
+2023-01-27 20:39:12.982:face_encoding.py:create_face_encodings:INFO:68:Processing Image 5/100
+2023-01-27 20:39:12.982:face_encoding.py:create_face_encodings:INFO:69:E:/face_clustering_service/src/DATASETS/sample_dataset\Adriana Lima104_6.jpg
+2023-01-27 20:39:14.423:face_encoding.py:create_face_encodings:INFO:68:Processing Image 6/100
+2023-01-27 20:39:14.423:face_encoding.py:create_face_encodings:INFO:69:E:/face_clustering_service/src/DATASETS/sample_dataset\Adriana Lima105_7.jpg
+2023-01-27 20:39:17.719:face_encoding.py:create_face_encodings:INFO:68:Processing Image 7/100
+2023-01-27 20:39:17.719:face_encoding.py:create_face_encodings:INFO:69:E:/face_clustering_service/src/DATASETS/sample_dataset\Adriana Lima106_8.jpg
+2023-01-27 20:39:30.555:face_encoding.py:create_face_encodings:INFO:68:Processing Image 8/100
+2023-01-27 20:39:30.555:face_encoding.py:create_face_encodings:INFO:69:E:/face_clustering_service/src/DATASETS/sample_dataset\Adriana Lima107_9.jpg
+2023-01-27 20:39:37.47 :face_encoding.py:create_face_encodings:INFO:68:Processing Image 9/100
+2023-01-27 20:39:37.47 :face_encoding.py:create_face_encodings:INFO:69:E:/face_clustering_service/src/DATASETS/sample_dataset\Adriana Lima108_10.jpg
+2023-01-27 20:39:45.977:face_encoding.py:create_face_encodings:INFO:68:Processing Image 10/100
+2023-01-27 20:39:45.977:face_encoding.py:create_face_encodings:INFO:69:E:/face_clustering_service/src/DATASETS/sample_dataset\Adriana Lima109_11.jpg
+2023-01-27 20:39:48.451:face_encoding.py:create_face_encodings:INFO:68:Processing Image 11/100
+2023-01-27 20:39:48.451:face_encoding.py:create_face_encodings:INFO:69:E:/face_clustering_service/src/DATASETS/sample_dataset\Alex Lawther0_0.jpg
+2023-01-27 20:39:57.160:face_encoding.py:create_face_encodings:INFO:68:Processing Image 12/100
+2023-01-27 20:39:57.160:face_encoding.py:create_face_encodings:INFO:69:E:/face_clustering_service/src/DATASETS/sample_dataset\Alex Lawther101_2.jpg
+2023-01-27 20:39:58.579:face_encoding.py:create_face_encodings:INFO:68:Processing Image 13/100
+2023-01-27 20:39:58.579:face_encoding.py:create_face_encodings:INFO:69:E:/face_clustering_service/src/DATASETS/sample_dataset\Alex Lawther102_3.jpg
+2023-01-27 20:40:13.338:face_encoding.py:create_face_encodings:INFO:68:Processing Image 14/100
+2023-01-27 20:40:13.339:face_encoding.py:create_face_encodings:INFO:69:E:/face_clustering_service/src/DATASETS/sample_dataset\Alex Lawther103_4.jpg
+2023-01-27 20:40:15.640:face_encoding.py:create_face_encodings:INFO:68:Processing Image 15/100
+2023-01-27 20:40:15.640:face_encoding.py:create_face_encodings:INFO:69:E:/face_clustering_service/src/DATASETS/sample_dataset\Alex Lawther105_5.jpg
+2023-01-27 20:40:18.103:face_encoding.py:create_face_encodings:INFO:68:Processing Image 16/100
+2023-01-27 20:40:18.103:face_encoding.py:create_face_encodings:INFO:69:E:/face_clustering_service/src/DATASETS/sample_dataset\Alex Lawther106_6.jpg
+2023-01-27 20:40:30.915:face_encoding.py:create_face_encodings:INFO:68:Processing Image 17/100
+2023-01-27 20:40:30.915:face_encoding.py:create_face_encodings:INFO:69:E:/face_clustering_service/src/DATASETS/sample_dataset\Alex Lawther107_7.jpg
+2023-01-27 20:40:34.252:face_encoding.py:create_face_encodings:INFO:68:Processing Image 18/100
+2023-01-27 20:40:34.253:face_encoding.py:create_face_encodings:INFO:69:E:/face_clustering_service/src/DATASETS/sample_dataset\Alex Lawther108_8.jpg
+2023-01-27 20:40:36.115:face_encoding.py:create_face_encodings:INFO:68:Processing Image 19/100
+2023-01-27 20:40:36.115:face_encoding.py:create_face_encodings:INFO:69:E:/face_clustering_service/src/DATASETS/sample_dataset\Alex Lawther109_9.jpg
+2023-01-27 20:40:37.563:face_encoding.py:create_face_encodings:INFO:68:Processing Image 20/100
+2023-01-27 20:40:37.563:face_encoding.py:create_face_encodings:INFO:69:E:/face_clustering_service/src/DATASETS/sample_dataset\Alex Lawther10_1.jpg
+2023-01-27 20:40:50.489:face_encoding.py:create_face_encodings:INFO:68:Processing Image 21/100
+2023-01-27 20:40:50.489:face_encoding.py:create_face_encodings:INFO:69:E:/face_clustering_service/src/DATASETS/sample_dataset\Alexandra Daddario0_214.jpg
+2023-01-27 20:40:57.542:face_encoding.py:create_face_encodings:INFO:68:Processing Image 22/100
+2023-01-27 20:40:57.543:face_encoding.py:create_face_encodings:INFO:69:E:/face_clustering_service/src/DATASETS/sample_dataset\Alexandra Daddario100_217.jpg
+2023-01-27 20:41:16.524:face_encoding.py:create_face_encodings:INFO:68:Processing Image 23/100
+2023-01-27 20:41:16.525:face_encoding.py:create_face_encodings:INFO:69:E:/face_clustering_service/src/DATASETS/sample_dataset\Alexandra Daddario101_218.jpg
+2023-01-27 20:41:24.15 :face_encoding.py:create_face_encodings:INFO:68:Processing Image 24/100
+2023-01-27 20:41:24.15 :face_encoding.py:create_face_encodings:INFO:69:E:/face_clustering_service/src/DATASETS/sample_dataset\Alexandra Daddario102_219.jpg
+2023-01-27 20:41:42.971:face_encoding.py:create_face_encodings:INFO:68:Processing Image 25/100
+2023-01-27 20:41:42.971:face_encoding.py:create_face_encodings:INFO:69:E:/face_clustering_service/src/DATASETS/sample_dataset\Alexandra Daddario103_220.jpg
+2023-01-27 20:42:08.902:face_encoding.py:create_face_encodings:INFO:68:Processing Image 26/100
+2023-01-27 20:42:08.902:face_encoding.py:create_face_encodings:INFO:69:E:/face_clustering_service/src/DATASETS/sample_dataset\Alexandra Daddario104_221.jpg
+2023-01-27 20:42:12.813:face_encoding.py:create_face_encodings:INFO:68:Processing Image 27/100
+2023-01-27 20:42:12.813:face_encoding.py:create_face_encodings:INFO:69:E:/face_clustering_service/src/DATASETS/sample_dataset\Alexandra Daddario105_222.jpg
+2023-01-27 20:42:15.855:face_encoding.py:create_face_encodings:INFO:68:Processing Image 28/100
+2023-01-27 20:42:15.855:face_encoding.py:create_face_encodings:INFO:69:E:/face_clustering_service/src/DATASETS/sample_dataset\Alexandra Daddario106_223.jpg
+2023-01-27 20:42:29.430:face_encoding.py:create_face_encodings:INFO:68:Processing Image 29/100
+2023-01-27 20:42:29.430:face_encoding.py:create_face_encodings:INFO:69:E:/face_clustering_service/src/DATASETS/sample_dataset\Alexandra Daddario107_224.jpg
+2023-01-27 20:42:48.488:face_encoding.py:create_face_encodings:INFO:68:Processing Image 30/100
+2023-01-27 20:42:48.489:face_encoding.py:create_face_encodings:INFO:69:E:/face_clustering_service/src/DATASETS/sample_dataset\Alexandra Daddario108_225.jpg
+2023-01-27 20:43:02.26 :face_encoding.py:create_face_encodings:INFO:68:Processing Image 31/100
+2023-01-27 20:43:02.26 :face_encoding.py:create_face_encodings:INFO:69:E:/face_clustering_service/src/DATASETS/sample_dataset\Alvaro Morte100_154.jpg
+2023-01-27 20:43:07.425:face_encoding.py:create_face_encodings:INFO:68:Processing Image 32/100
+2023-01-27 20:43:07.426:face_encoding.py:create_face_encodings:INFO:69:E:/face_clustering_service/src/DATASETS/sample_dataset\Alvaro Morte105_155.jpg
+2023-01-27 20:43:10.542:face_encoding.py:create_face_encodings:INFO:68:Processing Image 33/100
+2023-01-27 20:43:10.543:face_encoding.py:create_face_encodings:INFO:69:E:/face_clustering_service/src/DATASETS/sample_dataset\Alvaro Morte105_156.jpg
+2023-01-27 20:43:29.295:face_encoding.py:create_face_encodings:INFO:68:Processing Image 34/100
+2023-01-27 20:43:29.295:face_encoding.py:create_face_encodings:INFO:69:E:/face_clustering_service/src/DATASETS/sample_dataset\Alvaro Morte10_153.jpg
+2023-01-27 20:43:48.337:face_encoding.py:create_face_encodings:INFO:68:Processing Image 35/100
+2023-01-27 20:43:48.337:face_encoding.py:create_face_encodings:INFO:69:E:/face_clustering_service/src/DATASETS/sample_dataset\Alvaro Morte110_158.jpg
+2023-01-27 20:43:51.358:face_encoding.py:create_face_encodings:INFO:68:Processing Image 36/100
+2023-01-27 20:43:51.358:face_encoding.py:create_face_encodings:INFO:69:E:/face_clustering_service/src/DATASETS/sample_dataset\Alvaro Morte111_159.jpg
+2023-01-27 20:43:58.432:face_encoding.py:create_face_encodings:INFO:68:Processing Image 37/100
+2023-01-27 20:43:58.432:face_encoding.py:create_face_encodings:INFO:69:E:/face_clustering_service/src/DATASETS/sample_dataset\Alvaro Morte112_160.jpg
+2023-01-27 20:44:01.447:face_encoding.py:create_face_encodings:INFO:68:Processing Image 38/100
+2023-01-27 20:44:01.448:face_encoding.py:create_face_encodings:INFO:69:E:/face_clustering_service/src/DATASETS/sample_dataset\Alvaro Morte114_161.jpg
+2023-01-27 20:44:39.994:face_encoding.py:create_face_encodings:INFO:68:Processing Image 39/100
+2023-01-27 20:44:39.994:face_encoding.py:create_face_encodings:INFO:69:E:/face_clustering_service/src/DATASETS/sample_dataset\Alvaro Morte115_162.jpg
+2023-01-27 20:44:47.85 :face_encoding.py:create_face_encodings:INFO:68:Processing Image 40/100
+2023-01-27 20:44:47.85 :face_encoding.py:create_face_encodings:INFO:69:E:/face_clustering_service/src/DATASETS/sample_dataset\Alvaro Morte117_163.jpg
+2023-01-27 20:44:54.472:face_encoding.py:create_face_encodings:INFO:68:Processing Image 41/100
+2023-01-27 20:44:54.472:face_encoding.py:create_face_encodings:INFO:69:E:/face_clustering_service/src/DATASETS/sample_dataset\alycia dabnem carey0_0.jpg
+2023-01-27 20:45:08.223:face_encoding.py:create_face_encodings:INFO:68:Processing Image 42/100
+2023-01-27 20:45:08.223:face_encoding.py:create_face_encodings:INFO:69:E:/face_clustering_service/src/DATASETS/sample_dataset\alycia dabnem carey100_3.jpg
+2023-01-27 20:45:15.339:face_encoding.py:create_face_encodings:INFO:68:Processing Image 43/100
+2023-01-27 20:45:15.340:face_encoding.py:create_face_encodings:INFO:69:E:/face_clustering_service/src/DATASETS/sample_dataset\alycia dabnem carey101_4.jpg
+2023-01-27 20:45:28.946:face_encoding.py:create_face_encodings:INFO:68:Processing Image 44/100
+2023-01-27 20:45:28.946:face_encoding.py:create_face_encodings:INFO:69:E:/face_clustering_service/src/DATASETS/sample_dataset\alycia dabnem carey102_5.jpg
+2023-01-27 20:45:34.150:face_encoding.py:create_face_encodings:INFO:68:Processing Image 45/100
+2023-01-27 20:45:34.150:face_encoding.py:create_face_encodings:INFO:69:E:/face_clustering_service/src/DATASETS/sample_dataset\alycia dabnem carey103_6.jpg
+2023-01-27 20:45:47.659:face_encoding.py:create_face_encodings:INFO:68:Processing Image 46/100
+2023-01-27 20:45:47.659:face_encoding.py:create_face_encodings:INFO:69:E:/face_clustering_service/src/DATASETS/sample_dataset\alycia dabnem carey104_7.jpg
+2023-01-27 20:45:50.700:face_encoding.py:create_face_encodings:INFO:68:Processing Image 47/100
+2023-01-27 20:45:50.700:face_encoding.py:create_face_encodings:INFO:69:E:/face_clustering_service/src/DATASETS/sample_dataset\alycia dabnem carey105_8.jpg
+2023-01-27 20:46:09.246:face_encoding.py:create_face_encodings:INFO:68:Processing Image 48/100
+2023-01-27 20:46:09.247:face_encoding.py:create_face_encodings:INFO:69:E:/face_clustering_service/src/DATASETS/sample_dataset\alycia dabnem carey106_9.jpg
+2023-01-27 20:46:16.235:face_encoding.py:create_face_encodings:INFO:68:Processing Image 49/100
+2023-01-27 20:46:16.235:face_encoding.py:create_face_encodings:INFO:69:E:/face_clustering_service/src/DATASETS/sample_dataset\alycia dabnem carey107_10.jpg
+2023-01-27 20:46:29.804:face_encoding.py:create_face_encodings:INFO:68:Processing Image 50/100
+2023-01-27 20:46:29.804:face_encoding.py:create_face_encodings:INFO:69:E:/face_clustering_service/src/DATASETS/sample_dataset\alycia dabnem carey108_11.jpg
+2023-01-27 20:46:35.83 :face_encoding.py:create_face_encodings:INFO:68:Processing Image 51/100
+2023-01-27 20:46:35.84 :face_encoding.py:create_face_encodings:INFO:69:E:/face_clustering_service/src/DATASETS/sample_dataset\Amanda Crew0_0.jpg
+2023-01-27 20:47:02.280:face_encoding.py:create_face_encodings:INFO:68:Processing Image 52/100
+2023-01-27 20:47:02.281:face_encoding.py:create_face_encodings:INFO:69:E:/face_clustering_service/src/DATASETS/sample_dataset\Amanda Crew100_3.jpg
+2023-01-27 20:47:05.292:face_encoding.py:create_face_encodings:INFO:68:Processing Image 53/100
+2023-01-27 20:47:05.293:face_encoding.py:create_face_encodings:INFO:69:E:/face_clustering_service/src/DATASETS/sample_dataset\Amanda Crew102_4.jpg
+2023-01-27 20:47:08.313:face_encoding.py:create_face_encodings:INFO:68:Processing Image 54/100
+2023-01-27 20:47:08.313:face_encoding.py:create_face_encodings:INFO:69:E:/face_clustering_service/src/DATASETS/sample_dataset\Amanda Crew104_5.jpg
+2023-01-27 20:47:15.316:face_encoding.py:create_face_encodings:INFO:68:Processing Image 55/100
+2023-01-27 20:47:15.316:face_encoding.py:create_face_encodings:INFO:69:E:/face_clustering_service/src/DATASETS/sample_dataset\Amanda Crew106_6.jpg
+2023-01-27 20:47:18.346:face_encoding.py:create_face_encodings:INFO:68:Processing Image 56/100
+2023-01-27 20:47:18.346:face_encoding.py:create_face_encodings:INFO:69:E:/face_clustering_service/src/DATASETS/sample_dataset\Amanda Crew107_7.jpg
+2023-01-27 20:47:31.808:face_encoding.py:create_face_encodings:INFO:68:Processing Image 57/100
+2023-01-27 20:47:31.808:face_encoding.py:create_face_encodings:INFO:69:E:/face_clustering_service/src/DATASETS/sample_dataset\Amanda Crew108_8.jpg
+2023-01-27 20:47:34.808:face_encoding.py:create_face_encodings:INFO:68:Processing Image 58/100
+2023-01-27 20:47:34.808:face_encoding.py:create_face_encodings:INFO:69:E:/face_clustering_service/src/DATASETS/sample_dataset\Amanda Crew109_9.jpg
+2023-01-27 20:47:48.429:face_encoding.py:create_face_encodings:INFO:68:Processing Image 59/100
+2023-01-27 20:47:48.429:face_encoding.py:create_face_encodings:INFO:69:E:/face_clustering_service/src/DATASETS/sample_dataset\Amanda Crew10_2.jpg
+2023-01-27 20:47:52.377:face_encoding.py:create_face_encodings:INFO:68:Processing Image 60/100
+2023-01-27 20:47:52.377:face_encoding.py:create_face_encodings:INFO:69:E:/face_clustering_service/src/DATASETS/sample_dataset\Amanda Crew110_11.jpg
+2023-01-27 20:47:55.434:face_encoding.py:create_face_encodings:INFO:68:Processing Image 61/100
+2023-01-27 20:47:55.434:face_encoding.py:create_face_encodings:INFO:69:E:/face_clustering_service/src/DATASETS/sample_dataset\amber heard0_211.jpg
+2023-01-27 20:48:44.522:face_encoding.py:create_face_encodings:INFO:68:Processing Image 62/100
+2023-01-27 20:48:44.522:face_encoding.py:create_face_encodings:INFO:69:E:/face_clustering_service/src/DATASETS/sample_dataset\amber heard100_214.jpg
+2023-01-27 20:49:37.673:face_encoding.py:create_face_encodings:INFO:68:Processing Image 63/100
+2023-01-27 20:49:37.673:face_encoding.py:create_face_encodings:INFO:69:E:/face_clustering_service/src/DATASETS/sample_dataset\amber heard101_215.jpg
+2023-01-27 20:50:15.637:face_encoding.py:create_face_encodings:INFO:68:Processing Image 64/100
+2023-01-27 20:50:15.638:face_encoding.py:create_face_encodings:INFO:69:E:/face_clustering_service/src/DATASETS/sample_dataset\amber heard102_216.jpg
+2023-01-27 20:51:24.615:face_encoding.py:create_face_encodings:INFO:68:Processing Image 65/100
+2023-01-27 20:51:24.615:face_encoding.py:create_face_encodings:INFO:69:E:/face_clustering_service/src/DATASETS/sample_dataset\amber heard103_217.jpg
+2023-01-27 20:51:27.671:face_encoding.py:create_face_encodings:INFO:68:Processing Image 66/100
+2023-01-27 20:51:27.672:face_encoding.py:create_face_encodings:INFO:69:E:/face_clustering_service/src/DATASETS/sample_dataset\amber heard104_218.jpg
+2023-01-27 20:51:32.998:face_encoding.py:create_face_encodings:INFO:68:Processing Image 67/100
+2023-01-27 20:51:32.998:face_encoding.py:create_face_encodings:INFO:69:E:/face_clustering_service/src/DATASETS/sample_dataset\amber heard105_219.jpg
+2023-01-27 20:51:40.216:face_encoding.py:create_face_encodings:INFO:68:Processing Image 68/100
+2023-01-27 20:51:40.216:face_encoding.py:create_face_encodings:INFO:69:E:/face_clustering_service/src/DATASETS/sample_dataset\amber heard107_220.jpg
+2023-01-27 20:51:50.10 :face_encoding.py:create_face_encodings:INFO:68:Processing Image 69/100
+2023-01-27 20:51:50.10 :face_encoding.py:create_face_encodings:INFO:69:E:/face_clustering_service/src/DATASETS/sample_dataset\amber heard108_221.jpg
+2023-01-27 20:52:03.654:face_encoding.py:create_face_encodings:INFO:68:Processing Image 70/100
+2023-01-27 20:52:03.654:face_encoding.py:create_face_encodings:INFO:69:E:/face_clustering_service/src/DATASETS/sample_dataset\amber heard109_222.jpg
+2023-01-27 20:52:13.347:face_encoding.py:create_face_encodings:INFO:68:Processing Image 71/100
+2023-01-27 20:52:13.347:face_encoding.py:create_face_encodings:INFO:69:E:/face_clustering_service/src/DATASETS/sample_dataset\Andy Samberg0_429.jpg
+2023-01-27 20:52:20.301:face_encoding.py:create_face_encodings:INFO:68:Processing Image 72/100
+2023-01-27 20:52:20.301:face_encoding.py:create_face_encodings:INFO:69:E:/face_clustering_service/src/DATASETS/sample_dataset\Andy Samberg100_432.jpg
+2023-01-27 20:52:25.604:face_encoding.py:create_face_encodings:INFO:68:Processing Image 73/100
+2023-01-27 20:52:25.604:face_encoding.py:create_face_encodings:INFO:69:E:/face_clustering_service/src/DATASETS/sample_dataset\Andy Samberg100_433.jpg
+2023-01-27 20:52:35.495:face_encoding.py:create_face_encodings:INFO:68:Processing Image 74/100
+2023-01-27 20:52:35.495:face_encoding.py:create_face_encodings:INFO:69:E:/face_clustering_service/src/DATASETS/sample_dataset\Andy Samberg101_434.jpg
+2023-01-27 20:52:38.519:face_encoding.py:create_face_encodings:INFO:68:Processing Image 75/100
+2023-01-27 20:52:38.519:face_encoding.py:create_face_encodings:INFO:69:E:/face_clustering_service/src/DATASETS/sample_dataset\Andy Samberg102_435.jpg
+2023-01-27 20:52:48.224:face_encoding.py:create_face_encodings:INFO:68:Processing Image 76/100
+2023-01-27 20:52:48.224:face_encoding.py:create_face_encodings:INFO:69:E:/face_clustering_service/src/DATASETS/sample_dataset\Andy Samberg103_436.jpg
+2023-01-27 20:52:55.194:face_encoding.py:create_face_encodings:INFO:68:Processing Image 77/100
+2023-01-27 20:52:55.194:face_encoding.py:create_face_encodings:INFO:69:E:/face_clustering_service/src/DATASETS/sample_dataset\Andy Samberg104_437.jpg
+2023-01-27 20:53:22.381:face_encoding.py:create_face_encodings:INFO:68:Processing Image 78/100
+2023-01-27 20:53:22.381:face_encoding.py:create_face_encodings:INFO:69:E:/face_clustering_service/src/DATASETS/sample_dataset\Andy Samberg105_438.jpg
+2023-01-27 20:53:49.661:face_encoding.py:create_face_encodings:INFO:68:Processing Image 79/100
+2023-01-27 20:53:49.661:face_encoding.py:create_face_encodings:INFO:69:E:/face_clustering_service/src/DATASETS/sample_dataset\Andy Samberg106_439.jpg
+2023-01-27 20:53:54.882:face_encoding.py:create_face_encodings:INFO:68:Processing Image 80/100
+2023-01-27 20:53:54.882:face_encoding.py:create_face_encodings:INFO:69:E:/face_clustering_service/src/DATASETS/sample_dataset\Andy Samberg108_440.jpg
+2023-01-27 20:54:14.76 :face_encoding.py:create_face_encodings:INFO:68:Processing Image 81/100
+2023-01-27 20:54:14.76 :face_encoding.py:create_face_encodings:INFO:69:E:/face_clustering_service/src/DATASETS/sample_dataset\Anne Hathaway0_293.jpg
+2023-01-27 20:54:23.819:face_encoding.py:create_face_encodings:INFO:68:Processing Image 82/100
+2023-01-27 20:54:23.819:face_encoding.py:create_face_encodings:INFO:69:E:/face_clustering_service/src/DATASETS/sample_dataset\Anne Hathaway100_296.jpg
+2023-01-27 20:54:42.729:face_encoding.py:create_face_encodings:INFO:68:Processing Image 83/100
+2023-01-27 20:54:42.729:face_encoding.py:create_face_encodings:INFO:69:E:/face_clustering_service/src/DATASETS/sample_dataset\Anne Hathaway102_297.jpg
+2023-01-27 20:54:56.254:face_encoding.py:create_face_encodings:INFO:68:Processing Image 84/100
+2023-01-27 20:54:56.254:face_encoding.py:create_face_encodings:INFO:69:E:/face_clustering_service/src/DATASETS/sample_dataset\Anne Hathaway103_298.jpg
+2023-01-27 20:55:00.221:face_encoding.py:create_face_encodings:INFO:68:Processing Image 85/100
+2023-01-27 20:55:00.221:face_encoding.py:create_face_encodings:INFO:69:E:/face_clustering_service/src/DATASETS/sample_dataset\Anne Hathaway104_299.jpg
+2023-01-27 20:55:09.943:face_encoding.py:create_face_encodings:INFO:68:Processing Image 86/100
+2023-01-27 20:55:09.944:face_encoding.py:create_face_encodings:INFO:69:E:/face_clustering_service/src/DATASETS/sample_dataset\Anne Hathaway105_300.jpg
+2023-01-27 20:55:48.374:face_encoding.py:create_face_encodings:INFO:68:Processing Image 87/100
+2023-01-27 20:55:48.374:face_encoding.py:create_face_encodings:INFO:69:E:/face_clustering_service/src/DATASETS/sample_dataset\Anne Hathaway106_301.jpg
+2023-01-27 20:55:51.392:face_encoding.py:create_face_encodings:INFO:68:Processing Image 88/100
+2023-01-27 20:55:51.392:face_encoding.py:create_face_encodings:INFO:69:E:/face_clustering_service/src/DATASETS/sample_dataset\Anne Hathaway107_302.jpg
+2023-01-27 20:55:54.552:face_encoding.py:create_face_encodings:INFO:68:Processing Image 89/100
+2023-01-27 20:55:54.552:face_encoding.py:create_face_encodings:INFO:69:E:/face_clustering_service/src/DATASETS/sample_dataset\Anne Hathaway109_303.jpg
+2023-01-27 20:56:20.396:face_encoding.py:create_face_encodings:INFO:68:Processing Image 90/100
+2023-01-27 20:56:20.396:face_encoding.py:create_face_encodings:INFO:69:E:/face_clustering_service/src/DATASETS/sample_dataset\Anne Hathaway10_295.jpg
+2023-01-27 20:56:27.489:face_encoding.py:create_face_encodings:INFO:68:Processing Image 91/100
+2023-01-27 20:56:27.490:face_encoding.py:create_face_encodings:INFO:69:E:/face_clustering_service/src/DATASETS/sample_dataset\Anthony Mackie100_442.jpg
+2023-01-27 20:56:30.520:face_encoding.py:create_face_encodings:INFO:68:Processing Image 92/100
+2023-01-27 20:56:30.521:face_encoding.py:create_face_encodings:INFO:69:E:/face_clustering_service/src/DATASETS/sample_dataset\Anthony Mackie102_443.jpg
+2023-01-27 20:56:33.566:face_encoding.py:create_face_encodings:INFO:68:Processing Image 93/100
+2023-01-27 20:56:33.566:face_encoding.py:create_face_encodings:INFO:69:E:/face_clustering_service/src/DATASETS/sample_dataset\Anthony Mackie104_444.jpg
+2023-01-27 20:56:37.434:face_encoding.py:create_face_encodings:INFO:68:Processing Image 94/100
+2023-01-27 20:56:37.434:face_encoding.py:create_face_encodings:INFO:69:E:/face_clustering_service/src/DATASETS/sample_dataset\Anthony Mackie105_445.jpg
+2023-01-27 20:56:44.350:face_encoding.py:create_face_encodings:INFO:68:Processing Image 95/100
+2023-01-27 20:56:44.351:face_encoding.py:create_face_encodings:INFO:69:E:/face_clustering_service/src/DATASETS/sample_dataset\Anthony Mackie106_446.jpg
+2023-01-27 20:56:46.868:face_encoding.py:create_face_encodings:INFO:68:Processing Image 96/100
+2023-01-27 20:56:46.868:face_encoding.py:create_face_encodings:INFO:69:E:/face_clustering_service/src/DATASETS/sample_dataset\Anthony Mackie109_447.jpg
+2023-01-27 20:56:53.873:face_encoding.py:create_face_encodings:INFO:68:Processing Image 97/100
+2023-01-27 20:56:53.874:face_encoding.py:create_face_encodings:INFO:69:E:/face_clustering_service/src/DATASETS/sample_dataset\Anthony Mackie10_441.jpg
+2023-01-27 20:57:06.300:face_encoding.py:create_face_encodings:INFO:68:Processing Image 98/100
+2023-01-27 20:57:06.300:face_encoding.py:create_face_encodings:INFO:69:E:/face_clustering_service/src/DATASETS/sample_dataset\Anthony Mackie111_448.jpg
+2023-01-27 20:57:19.936:face_encoding.py:create_face_encodings:INFO:68:Processing Image 99/100
+2023-01-27 20:57:19.936:face_encoding.py:create_face_encodings:INFO:69:E:/face_clustering_service/src/DATASETS/sample_dataset\Anthony Mackie114_449.jpg
+2023-01-27 20:57:23.890:face_encoding.py:create_face_encodings:INFO:68:Processing Image 100/100
+2023-01-27 20:57:23.892:face_encoding.py:create_face_encodings:INFO:69:E:/face_clustering_service/src/DATASETS/sample_dataset\Anthony Mackie114_450.jpg
+2023-01-27 20:57:27.955:face_encoding.py:encodings_pickle:INFO:89:Face encodings saved in E:/face_clustering_service/src/service/face_encodings.pickle
+2023-01-27 20:57:27.956:face_clustering.py:load_encodings_pickle:INFO:71:Loading face encodings from a pickle file
+2023-01-27 20:57:28.769:face_clustering.py:create_face_clusters:INFO:100:Total unique faces are 10

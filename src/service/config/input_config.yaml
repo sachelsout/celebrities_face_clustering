@@ -1,0 +1,21 @@
+local:
+  SOURCE_DIR:
+    - name: SOURCE_DIR
+      value: 'E:/face_clustering/105_classes_pins_dataset'
+  DESTINATION_DIR:
+    - name: DESTINATION_DIR
+      value: 'E:/face_clustering_service/src/DATASETS/sample_dataset'
+  NUMBER_OF_IMAGES:
+    - name: NUMBER_OF_IMAGES
+      value: "10"
+
+dev:
+  SOURCE_DIR:
+    - name: SOURCE_DIR
+      value: 'E:/face_clustering/105_classes_pins_dataset'
+  DESTINATION_DIR:
+    - name: DESTINATION_DIR
+      value: 'E:/face_clustering_service/src/DATASETS/sample_dataset'
+  NUMBER_OF_IMAGES:
+    - name: NUMBER_OF_IMAGES
+      value: "10"

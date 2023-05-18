@@ -1,0 +1,27 @@
+local:
+  FACE_DETECTION_METHOD:
+    - name: FACE_DETECTION_METHOD
+      value: 'cnn'
+  ENCODINGS_PATH:
+    - name: ENCODINGS_PATH
+      value: 'E:/face_clustering_service/src/service/face_encodings.pickle'
+  CLUSTERING_RESULT_PATH:
+    - name: CLUSTERING_RESULT_PATH
+      value: 'E:/face_clustering_service/src/results'
+  NJOBS:
+    - name: NJOBS
+      value: '-1'
+
+dev:
+  FACE_DETECTION_METHOD:
+    - name: FACE_DETECTION_METHOD
+      value: 'cnn'
+  ENCODINGS_PATH:
+    - name: ENCODINGS_PATH
+      value: 'E:/face_clustering_service/src/service/face_encodings.pickle'
+  CLUSTERING_RESULT_PATH:
+    - name: CLUSTERING_RESULT_PATH
+      value: 'E:/face_clustering_service/src/results'
+  NJOBS:
+    - name: NJOBS
+      value: '-1'

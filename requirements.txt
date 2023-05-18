@@ -1,0 +1,12 @@
+logging
+yaml
+sys
+pickle
+cv2
+numpy
+imutils
+scikit-learn
+face-recognition
+shutil
+argparse
+configparser
